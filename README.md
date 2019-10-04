@@ -95,7 +95,7 @@ O seu git está configurado.
 	
 - **Passo 3 - Clonar repositorio remoto:**
 
-	git clone https://github.com/laboratoriodejogos/grupo_arquivos.git   (exemplo)
+	git clone https://github.com/professores-nerdaiada/avisos-gerais.git   (exemplo)
 
 
 Pronto!
@@ -107,7 +107,7 @@ O seu repositório já está configurado e pronto para uso.
 --------------------------------------------------------------------
 
 
-## Comandos do GIT
+## Comandos básicos do GIT
 
 	Para criar um novo repositorio local:
 	// para iniciar o repositório
@@ -147,7 +147,7 @@ O seu repositório já está configurado e pronto para uso.
 	- https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1
 	- https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0
 	- https://www.youtube.com/watch?v=UMhskLXJuq4	
-  - https://www.youtube.com/watch?v=w3jLJU7DT5E
+  	- https://www.youtube.com/watch?v=w3jLJU7DT5E
   
 
 	PUBLICAR WEB PAGE GIT
@@ -162,4 +162,11 @@ O seu repositório já está configurado e pronto para uso.
 		Escolher o tipo de arquivo, clicar em "Create" e salvar o arquivo exibido.
 		Este arquivo ".gitignore" deve ester na raiz do projeto versionado
 
+	CURSOS Gratuito na Udemy - git/GITHUB:
+	- https://www.udemy.com/course/git-e-github-para-iniciantes/
+	- https://www.udemy.com/course/github-pages/
+	- https://www.udemy.com/course/controle-de-versao-de-softwares-utilizando-o-github/
+	- https://www.udemy.com/course/git-e-github/
+	- https://www.udemy.com/course/portfolio-profissional-github/
+	
 
