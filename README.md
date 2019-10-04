@@ -139,20 +139,20 @@ O seu repositório já está configurado e pronto para uso.
 ## CONTEÚDO DE ESTUDO 
 
 	Link com comandos de apoio para GIT
-	- http://rogerdudler.github.io/git-guide/index.pt_BR.html
-	- https://try.github.io/levels/1/challenges/1	
+	 http://rogerdudler.github.io/git-guide/index.pt_BR.html
+	 https://try.github.io/levels/1/challenges/1	
 
-	- http://rogerdudler.github.io/git-guide/index.pt_BR.html
-	- https://pt.wikipedia.org/wiki/Sistema_de_controle_de_vers%C3%B5es
-	- https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1
-	- https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0
-	- https://www.youtube.com/watch?v=UMhskLXJuq4	
-  	- https://www.youtube.com/watch?v=w3jLJU7DT5E
+	 http://rogerdudler.github.io/git-guide/index.pt_BR.html
+	 https://pt.wikipedia.org/wiki/Sistema_de_controle_de_vers%C3%B5es
+	 https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1
+	 https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0
+	 https://www.youtube.com/watch?v=UMhskLXJuq4	
+  	 https://www.youtube.com/watch?v=w3jLJU7DT5E
   
 
 	PUBLICAR WEB PAGE GIT
-	- https://pages.github.com/
-	- http://blog.virtuacreative.com.br/hospedar-website-gratis-com-github.html
+	 https://pages.github.com/
+	 http://blog.virtuacreative.com.br/hospedar-website-gratis-com-github.html
 	
     
 	
@@ -163,10 +163,10 @@ O seu repositório já está configurado e pronto para uso.
 		Este arquivo ".gitignore" deve ester na raiz do projeto versionado
 
 	CURSOS Gratuito na Udemy - git/GITHUB:
-	- https://www.udemy.com/course/git-e-github-para-iniciantes/
-	- https://www.udemy.com/course/github-pages/
-	- https://www.udemy.com/course/controle-de-versao-de-softwares-utilizando-o-github/
-	- https://www.udemy.com/course/git-e-github/
-	- https://www.udemy.com/course/portfolio-profissional-github/
+	 https://www.udemy.com/course/git-e-github-para-iniciantes/
+	 https://www.udemy.com/course/github-pages/
+	 https://www.udemy.com/course/controle-de-versao-de-softwares-utilizando-o-github/
+	 https://www.udemy.com/course/git-e-github/
+	 https://www.udemy.com/course/portfolio-profissional-github/
 	
 
