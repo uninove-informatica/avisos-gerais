@@ -139,8 +139,8 @@ O seu repositório já está configurado e pronto para uso.
 ## CONTEÚDO DE ESTUDO 
 
 	Link com comandos de apoio para GIT
-	 http://rogerdudler.github.io/git-guide/index.pt_BR.html
-	 https://try.github.io/levels/1/challenges/1	
+http://rogerdudler.github.io/git-guide/index.pt_BR.html
+	https://try.github.io/levels/1/challenges/1	
 
 	 http://rogerdudler.github.io/git-guide/index.pt_BR.html
 	 https://pt.wikipedia.org/wiki/Sistema_de_controle_de_vers%C3%B5es
