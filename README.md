@@ -132,7 +132,18 @@ O seu repositório já está configurado e pronto para uso.
 	//Atualizar repositório (dentro do diretório versionado):
 	git pull origin master
 	
-	
+---------------------------------------------------------------------
+## EDITOR DE MARKDOWN
+
+	Open source online Markdown editor:
+		https://stackedit.io/app#
+		https://pandao.github.io/editor.md/en.html
+		https://dillinger.io/
+
+	Dicas:
+		https://blog.da2k.com.br/2015/02/08/aprenda-markdown/
+		https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8
+
 ---------------------------------------------------------------------
 
 
